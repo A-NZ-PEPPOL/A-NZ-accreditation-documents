@@ -4,7 +4,7 @@ Completion of the following documentation is required for Service Providers appl
 
 For support in completing this documentation, please review the following guides:
 
-* New Zealand PEPPOL Authority Accreditation Guide
+* [New Zealand PEPPOL Authority Accreditation Guide](https://github.com/A-NZ-PEPPOL/A-NZ-accreditation-documents/blob/master/New%20Zealand%20PEPPOL%20Authority/NZ%20PEPPOL%20Authority%20Accreditation%20Guide.pdf)
 * [Australian PEPPOL Authority Accreditation Guide](https://softwaredevelopers.ato.gov.au/e-invoicing-accreditation-process)
 
 ## Feedback
