@@ -52,7 +52,7 @@ Please avoid submitting incomplete packs, as this will delay the accreditation p
 ## Accreditation checklist
 | Activity | Applicable to |
 |----------|---------------|
-| Complete Expression of Interest | Form All SPs |
+| Complete Expression of Interest Form | All SPs |
 | Sign the AP and or SMP agreements | New SPs |
 | Complete or initial Annexes 1 to 6 | New SPs |
 | Complete Annex 5 | only Established SPs, Australian accredited SPs |
