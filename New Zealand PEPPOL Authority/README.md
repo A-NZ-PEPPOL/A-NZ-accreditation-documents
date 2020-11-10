@@ -55,7 +55,7 @@ Please avoid submitting incomplete packs, as this will delay the accreditation p
 | Complete Expression of Interest Form | All SPs |
 | Sign the AP and or SMP agreements | New SPs |
 | Complete or initial Annexes 1 to 6 | New SPs |
-| Complete Annex 5 | only Established SPs, Australian accredited SPs |
+| Complete Annexes 1 and 5 | only Established SPs, Australian accredited SPs |
 | Completed a Criminal Conviction History form for Company Directors and/or Responsible Officer(s). Include the appropriate form of ID. | New SPs |
 | Complete the Security Questionnaire | New SPs, Established SPs |
 | Complete the website information form | All SPs |
