@@ -26,7 +26,7 @@ If your organisation is already operating on the PEPPOL network, we will engage 
 You will still need to complete some sections of the accreditation pack and complete New Zealand interoperability testing.
 
 ## Australian accredited Service Providers
-PEPPOL Service Providers accredited by the Australian PEPPOL Authority are also eligible for mutual accreditation by the New Zealand PEPPOL Authority, and will only be required to sign the New Zealand Annex 5.
+PEPPOL Service Providers accredited by the Australian PEPPOL Authority are also eligible for mutual accreditation by the New Zealand PEPPOL Authority, and will only be required to sign the New Zealand Annexes 1 & 5.
 
 # What’s involved in the accreditation process?
 ## Join OpenPEPPOL
