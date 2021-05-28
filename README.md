@@ -11,5 +11,5 @@ For support in completing this documentation, please review the following guides
 
 If you have any feedback on how we can improve this information.
 
-* The New Zealand PEPPOL Authority - [support@nzpeppol.govt.nz](mailto:support@nzpeppol.govt.nz)
-* The Australian Taxation Office - [e-invoicing@ato.gov.au](mailto:e-invoicing@ato.gov.au)
+* The New Zealand Peppol Authority - [support@nzpeppol.govt.nz](mailto:support@nzpeppol.govt.nz)
+* The Australian Peppol Authority - [e-invoicing@ato.gov.au](mailto:e-invoicing@ato.gov.au)
