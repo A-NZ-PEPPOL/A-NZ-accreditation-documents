@@ -12,4 +12,4 @@ For support in completing this documentation, please review the following guides
 If you have any feedback on how we can improve this information.
 
 * The New Zealand Peppol Authority - [support@nzpeppol.govt.nz](mailto:support@nzpeppol.govt.nz)
-* The Australian Peppol Authority - [e-invoicing@ato.gov.au](mailto:e-invoicing@ato.gov.au)
+* The Australian Peppol Authority - [einvoicing@ato.gov.au](mailto:e-invoicing@ato.gov.au)
