@@ -81,7 +81,7 @@ You must also confirm your intent to procure / provide evidence of an enforceabl
 All service providers are required to complete and submit the A-NZ eInvoicing security questionnaire.  The questionnaire requires evidence of the following:
 
 - Self-assessment or independent audit against ISO/IEC 27001 or ASD/NZ ISM, including suitable evidence for the following controls:
-               -Encryption key management
+-               Encryption key management
 -  Network segregation
 -  Audit logging
 -  Patch and vulnerability management program
