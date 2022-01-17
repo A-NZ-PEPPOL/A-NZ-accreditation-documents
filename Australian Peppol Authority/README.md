@@ -80,8 +80,8 @@ You must also confirm your intent to procure / provide evidence of an enforceabl
 
 All service providers are required to complete and submit the A-NZ eInvoicing security questionnaire.  The questionnaire requires evidence of the following:
 
-- Self-assessment or independent audit against ISO/IEC 27001 or ASD/NZ ISM, including suitable evidence for the following controls:
-                 -Encryption key management
+Self-assessment or independent audit against ISO/IEC 27001 or ASD/NZ ISM, including suitable evidence for the following controls:
+-  Encryption key management
 -  Network segregation
 -  Audit logging
 -  Patch and vulnerability management program
@@ -92,10 +92,10 @@ All service providers are required to complete and submit the A-NZ eInvoicing se
 -  System access control
 -  Personnel security
 -  Backup
-- Encryption in transit (Access Points only).
-- Encryption at rest.
-- Security monitoring practices.
-- Multifactor authentication (Access Points only).
+Encryption in transit (Access Points only).
+Encryption at rest.
+Security monitoring practices.
+Multifactor authentication (Access Points only).
 
 ## 5. Test the service offering
 To verify the service offering of the Peppol Service Provider conforms to Peppol specifications and the additional local requirements in Australia you are required to sequentially execute these steps.
@@ -149,18 +149,18 @@ For access points who have completed all the steps of accreditation in Australia
 
 It is expected that all accredited Peppol Service Providers will meet the requirements of accreditation on an on-going basis. An annual review of accredited Peppol Service Providers will take place to provide this assurance and include:
 
-- Due diligence checks and provision of a current enforceable Professional Indemnity Insurance policy of at least $10 million AUD (or equivalent in other currency) per occurrence.
-- Adherence to A-NZ eInvoicing security requirements which includes: 
+Due diligence checks and provision of a current enforceable Professional Indemnity Insurance policy of at least $10 million AUD (or equivalent in other currency) per occurrence.
+Adherence to A-NZ eInvoicing security requirements which includes: 
 -  Completion of section A of the A-NZ eInvoicing Security Questionnaire.
 -  Review your evidence to ensure it aligns to the current security requirements and is up to date. Submit updated evidence where required.
 -  Advise if there have been changes to your business or product environment.
 
 ## Specifications and associated guidance notes
 
-The Peppol network uses standardised messages to enable automation. Jurisdictions can create extensions to the base eInvoicing specification (BIS Billing 3.0External link). Australia and New Zealand have worked together to create two extensions - the A-NZ invoicing extension and A-NZ self-billing extensionExternal link.
-To assist with invoice processing in Australian and New Zealand we recommend implementing industry best practice fields as per the A-NZ Invoice Practice Statement - Invoice ContentExternal link.
+The Peppol network uses standardised messages to enable automation. Jurisdictions can create extensions to the base eInvoicing specification [BIS Billing 3.0](https://peppol.eu/what-is-peppol/peppol-profiles-specifications/)). Australia and New Zealand have worked together to create two extensions - the [A-NZ invoicing extension and A-NZ self-billing extension](https://github.com/A-NZ-PEPPOL/A-NZ-PEPPOL-BIS-3.0).
+To assist with invoice processing in Australian and New Zealand we recommend implementing industry best practice fields as per the [A-NZ Invoice Practice Statement - Invoice Content](https://github.com/A-NZ-PEPPOL/A-NZ-Industry-Practice-Statements).
 
-Specifications and associated guidance notes for your implementation can be found on A-NZ Peppol GitHubExternal link.
+Specifications and associated guidance notes for your implementation can be found on [A-NZ Peppol GitHub](https://github.com/A-NZ-PEPPOL)
 
 ## Contact us
 
@@ -198,10 +198,11 @@ Once registered we will provide an onboarding pack that includes additional info
 The legal agreements set the minimum requirements to be applied throughout the entire Peppol eDelivery Network. OpenPeppol and Peppol Authorities have recently endorsed new agreements which come into effect from 1 July 2022. For internationally accredited Peppol service providers to adhere to the requirements of the Australian Peppol Authority the requirements will change depending on the below dates.
 
 ### Accreditation prior to July 1, 2022
+
 For internationally accredited Peppol service providers who are looking to become accredited or meet the Australian Peppol Authority Specific requirements prior to this date they will need to:
 
-•	Provide a copy of the signed Transport Infrastructure agreement, Peppol AP and SMP provider agreements.
-•	Sign the Australian Annex 5.
+- Provide a copy of the signed Transport Infrastructure agreement, Peppol AP and SMP provider agreements.
+- Sign the Australian Annex 5.
 
 ### Accreditation post July 1, 2022
 
@@ -211,10 +212,10 @@ For Peppol service providers who are looking to become accredited post this date
 
 To protect the interests of end-users and the other service providers operating in the network, we will provide you with a form to complete to conduct due diligence checks, including:
 
-•	confirmation the entity providing the service is a registered business
-•	confirmation the entity providing the service is not insolvent
-•	confirmation the entity’s senior office holders are not banned, disqualified or bankrupt
-•	criminal record check.
+- confirmation the entity providing the service is a registered business
+- confirmation the entity providing the service is not insolvent
+- confirmation the entity’s senior office holders are not banned, disqualified or bankrupt
+- criminal record check.
 
 We recognise that these checks are dependent on the information available in the local jurisdiction of the service provider.
 
@@ -223,22 +224,23 @@ You must also confirm your intent to procure/provide evidence of an enforceable 
 ## 4. Complete the A-NZ eInvoicing security questionnaire
 
 We will require you to complete the A-NZ eInvoicing security questionnaire to confirm the existence of appropriate security controls. The security control requirements include:
-•	Self-assessment or independent audit against ISO/IEC 27001 or ASD/NZ ISM, including suitable evidence for the following controls:
-o	Encryption key management
-o	Network segregation
-o	Audit logging
-o	Patch and vulnerability management program
-o	Information security awareness, education and training
-o	Physical and environmental security
-o	Operational procedures and responsibility
-o	System acquisition, development and maintenance – including secure coding practices
-o	System access control
-o	Personnel security
-o	Backup
-•	Encryption in transit (Access Points only).
-•	Encryption at rest.
-•	Security monitoring practices.
-•	Multifactor authentication (Access Points only).
+
+Self-assessment or independent audit against ISO/IEC 27001 or ASD/NZ ISM, including suitable evidence for the following controls:
+- Encryption key management
+- Network segregation
+- Audit logging
+- Patch and vulnerability management program
+- Information security awareness, education and training
+- Physical and environmental security
+- Operational procedures and responsibility
+- System acquisition, development and maintenance – including secure coding practices
+- System access control
+- Personnel security
+- Backup
+Encryption in transit (Access Points only).
+Encryption at rest.
+Security monitoring practices.
+Multifactor authentication (Access Points only).
 
 ## 5. Interoperability testing
 
@@ -262,28 +264,22 @@ For access points who have already met the Peppol Authority Specific requirement
 For access points who have completed all the steps in Australia, they can request mutual acknowledgement with New Zealand by contacting einvoicing@mbie.govt.nz.
 Annual Review of Peppol Specific requirements
 
-It is expected that all accredited Peppol Service Providers will meet the requirements of accreditation on an on-going basis. An annual review of accredited Peppol Service Providers will take place to provide this assurance and include:
-•	Due diligence checks and provision of a current enforceable Professional Indemnity Insurance policy of at least $10 million AUD (or equivalent in other currency) per occurrence.
-•	Adherence to A-NZ eInvoicing security requirements which includes: 
-o	Completion of section A of the A-NZ eInvoicing Security Questionnaire.
-o	Review your evidence to ensure it aligns to the current security requirements and is up to date. Submit updated evidence where required.
-o	Advise if there have been changes to your business or product environment.
-
 ## Annual review of accredited Peppol Service Providers
 
 It is expected that all accredited Peppol Service Providers will meet the requirements of accreditation on an on-going basis. An annual review of accredited Peppol Service Providers will take place to provide this assurance and include:
-•	Due diligence checks and provision of a current enforceable Professional Indemnity Insurance policy of at least $10 million AUD (or equivalent in other currency) per occurrence.
-•	Adherence to A-NZ eInvoicing security requirements which includes: 
-o	Completion of section A of the A-NZ eInvoicing Security Questionnaire.
-o	Review your evidence to ensure it aligns to the current security requirements and is up to date. Submit updated evidence where required.
-o	Advise if there have been changes to your business or product environment.
+
+Due diligence checks and provision of a current enforceable Professional Indemnity Insurance policy of at least $10 million AUD (or equivalent in other currency) per occurrence.
+Adherence to A-NZ eInvoicing security requirements which includes: 
+- Completion of section A of the A-NZ eInvoicing Security Questionnaire.
+- Review your evidence to ensure it aligns to the current security requirements and is up to date. Submit updated evidence where required.
+- Advise if there have been changes to your business or product environment.
 
 ## Specifications and associated guidance notes
 
-The Peppol network uses standardised messages to enable automation. Jurisdictions can create extensions to the base eInvoicing specification (BIS Billing 3.0External link). Australia and New Zealand have worked together to create two extensions - the A-NZ invoicing extension and A-NZ self-billing extensionExternal link.
-To assist with invoice processing in Australian and New Zealand we recommend implementing industry best practice fields as per the A-NZ Invoice Practice Statement - Invoice ContentExternal link.
+The Peppol network uses standardised messages to enable automation. Jurisdictions can create extensions to the base eInvoicing specification [BIS Billing 3.0](https://peppol.eu/what-is-peppol/peppol-profiles-specifications/)). Australia and New Zealand have worked together to create two extensions - the [A-NZ invoicing extension and A-NZ self-billing extension](https://github.com/A-NZ-PEPPOL/A-NZ-PEPPOL-BIS-3.0).
+To assist with invoice processing in Australian and New Zealand we recommend implementing industry best practice fields as per the [A-NZ Invoice Practice Statement - Invoice Content](https://github.com/A-NZ-PEPPOL/A-NZ-Industry-Practice-Statements).
 
-Specifications and associated guidance notes for your implementation can be found on A-NZ Peppol GitHubExternal link.
+Specifications and associated guidance notes for your implementation can be found on [A-NZ Peppol GitHub](https://github.com/A-NZ-PEPPOL)
 
 ## Contact us
 For further information and to provide feedback email eInvoicing@ato.gov.au
