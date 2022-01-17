@@ -15,10 +15,12 @@ To determine this you will need to register with OpenPeppolExternal link. OpenPe
 If you have already been accredited with a Peppol Authority in another jurisdiction but want to provide your services to an Australian business, you will need to adhere to the Peppol Authority specific requirements which are listed on Internationally accredited Peppol Service Provider.
 
 To become an accredited Peppol Service provider it is essential to understand the Peppol environment and its structure.Below is a brief overview of key Peppol resources:
-•	The eDelivery Network reviewExternal link and specificationsExternal link
-•	Implementation Guide for Access Points, Public Key Infrastructure (PKI) certificate and Peppol Testbed guideExternal link
-•	Business Interoperability Specifications (BIS) overviewExternal link and 'post-award’ specificationsExternal link
-•	Peppol Compliance PolicyExternal link
+
+• [https://peppol.eu/what-is-peppol/peppol-transport-infrastructure/] and [https://peppol.eu/downloads/the-peppol-edelivery-network-specifications/] 
+• [Implementation Guide for Access Points, Public Key Infrastructure (PKI) certificate and Peppol Testbed guideExternal link]
+•	[https://peppol.eu/what-is-peppol/peppol-profiles-specifications/] and [https://peppol.eu/downloads/post-award/]
+•	https://peppol.eu/downloads/compliance/
+
 Once you have reviewed these resources and are ready to proceed, follow the below steps.
 
 # Steps to become an accredited Peppol Service Provider in Australia
