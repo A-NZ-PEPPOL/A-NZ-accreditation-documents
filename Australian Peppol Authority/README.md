@@ -6,7 +6,7 @@ Peppol is made up of 15 Peppol Authorities and 35 countries and is centrally man
 
 The Peppol network is reliant on Peppol Service Providers to publish and find details about users such as their message delivery address and the types of messages they can receive. This allows electronic delivery of messages such as eInvoices through software to the correct recipient in the right way.
 
-#**Accreditation overview**
+# Accreditation overview
 
 Accreditation is a process a Peppol Service Provider must complete to transact in the Peppol Network. OpenPeppol is responsible for determining which Peppol Authority you will need to complete accreditation with.
 
@@ -28,13 +28,13 @@ The steps below will apply to Peppol Service Providers who have registered with 
 The time required to complete this process will vary and is dependent on the readiness of the individual Service Provider seeking accreditation.
 The steps do not necessarily need to be completed in sequence, but all must be finalised and verified by the Australian Peppol Authority and OpenPeppol before a Service Provider is accredited to transact within the Peppol network.
 
-**1.	Submit expression of interest
-**2.	Legal agreements**
-**3.	Due Diligence checks**
-**4.	Complete A-NZ eInvoicing security questionnaire**
-**5.	Test the service offering**
-**6.	Receive accreditation**
-**7.	Request Production Public Key Infrastructure (PKI) Certificate**
+1.	Submit expression of interest
+2.	Legal agreements
+3.	Due Diligence checks
+4.	Complete A-NZ eInvoicing security questionnaire
+5.	Test the service offering
+6.	Receive accreditation
+7.	Request Production Public Key Infrastructure (PKI) Certificate
 
 ## 1. Submit an expression of interest
 
@@ -49,6 +49,7 @@ Once registered we will provide a Peppol Service Provider onboarding pack that i
 OpenPeppol and Peppol Authorities have recently endorsed new agreements (Peppol Service Provider Agreement) which come into effect from 1 July 2022.
 
 ### Accreditation prior to 1 July 2022
+
 The Transport Infrastructure Agreements (TIA) sets the minimum requirements to be consistently applied throughout the entire Peppol eDelivery Network. The Annex 5 to the TIA contains the details of the additional requirements and criteria that apply to service providers operating in Australia. For Peppol service providers who are looking to become accredited prior to this date they will need to sign both the new and old agreements below:
 
 •	Transport Infrastructure agreement
@@ -172,12 +173,12 @@ The Peppol Authority specific requirements that must be met aligns to the accred
 
 These steps do not necessarily need to be completed in sequence, but all must be finalised and verified by the Australian Peppol Authority before a service provider is able to transact with an Australian business through the Peppol Network.
 
-**1.	Submit an expression of interest
+1.	Submit an expression of interest
 2.	Legal Agreements
 3.	Due diligence
 4.	Complete the A-Z eInvoicing security questionnaire
 5.	Interoperability testing
-6.	Receive acknowledgment of meeting the Peppol Authority Specific Requirement**
+6.	Receive acknowledgment of meeting the Peppol Authority Specific Requirement
 
 If you have questions on the process prior to submitting an expression of interest contact the Australian Peppol Authority via eInvoicing@ato.gov.au.
 
