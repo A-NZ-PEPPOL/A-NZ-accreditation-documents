@@ -52,10 +52,10 @@ OpenPeppol and Peppol Authorities have recently endorsed new agreements (Peppol 
 
 The Transport Infrastructure Agreements (TIA) sets the minimum requirements to be consistently applied throughout the entire Peppol eDelivery Network. The Annex 5 to the TIA contains the details of the additional requirements and criteria that apply to service providers operating in Australia. For Peppol service providers who are looking to become accredited prior to this date they will need to sign both the new and old agreements below:
 
-•	Transport Infrastructure agreement
-•	Annexes 1 to 6
-•	Peppol AP and SMP provider agreements
-•	Peppol Service Provider Agreement
+Transport Infrastructure agreement
+Annexes 1 to 6
+Peppol AP and SMP provider agreements
+Peppol Service Provider Agreement
 
 ### Accreditation post 1 July 2022
 
