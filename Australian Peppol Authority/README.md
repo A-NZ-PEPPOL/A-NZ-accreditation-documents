@@ -78,7 +78,7 @@ You must also confirm your intent to procure / provide evidence of an enforceabl
 
 All service providers are required to complete and submit the A-NZ eInvoicing security questionnaire.  The questionnaire requires evidence of the following:
 
-•	Self-assessment or independent audit against ISO/IEC 27001 or ASD/NZ ISM, including suitable evidence for the following controls:
+**•	Self-assessment or independent audit against ISO/IEC 27001 or ASD/NZ ISM, including suitable evidence for the following controls:
 o	Encryption key management
 o	Network segregation
 o	Audit logging
@@ -93,7 +93,7 @@ o	Backup
 •	Encryption in transit (Access Points only).
 •	Encryption at rest.
 •	Security monitoring practices.
-•	Multifactor authentication (Access Points only).
+•	Multifactor authentication (Access Points only).**
 
 ## 5. Test the service offering
 To verify the service offering of the Peppol Service Provider conforms to Peppol specifications and the additional local requirements in Australia you are required to sequentially execute these steps.
