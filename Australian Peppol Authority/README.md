@@ -16,10 +16,10 @@ If you have already been accredited with a Peppol Authority in another jurisdict
 
 To become an accredited Peppol Service provider it is essential to understand the Peppol environment and its structure.Below is a brief overview of key Peppol resources:
 
-• [https://peppol.eu/what-is-peppol/peppol-transport-infrastructure/] and [https://peppol.eu/downloads/the-peppol-edelivery-network-specifications/] 
-• [Implementation Guide for Access Points, Public Key Infrastructure (PKI) certificate and Peppol Testbed guideExternal link]
-•	[https://peppol.eu/what-is-peppol/peppol-profiles-specifications/] and [https://peppol.eu/downloads/post-award/]
-•	https://peppol.eu/downloads/compliance/
+• [eDelivery network review](https://peppol.eu/what-is-peppol/peppol-transport-infrastructure/) and [specifications](https://peppol.eu/downloads/the-peppol-edelivery-network-specifications/)
+• [Implementation Guide for Access Points, Public Key Infrastructure (PKI) certificate and Peppol Testbed guide](https://peppol.eu/downloads/ap-guidelines/)
+•	[Business interoperability specifications overview](https://peppol.eu/what-is-peppol/peppol-profiles-specifications/) and [Post award specifications](https://peppol.eu/downloads/post-award/)
+•	[Peppol Compliance Policy](https://peppol.eu/downloads/compliance/) 
 
 Once you have reviewed these resources and are ready to proceed, follow the below steps.
 
