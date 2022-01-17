@@ -54,10 +54,10 @@ OpenPeppol and Peppol Authorities have recently endorsed new agreements (Peppol 
 
 The Transport Infrastructure Agreements (TIA) sets the minimum requirements to be consistently applied throughout the entire Peppol eDelivery Network. The Annex 5 to the TIA contains the details of the additional requirements and criteria that apply to service providers operating in Australia. For Peppol service providers who are looking to become accredited prior to this date they will need to sign both the new and old agreements below:
 
-Transport Infrastructure agreement
-Annexes 1 to 6
-Peppol AP and SMP provider agreements
-Peppol Service Provider Agreement
+- Transport Infrastructure agreement
+- Annexes 1 to 6
+- Peppol AP and SMP provider agreements
+- Peppol Service Provider Agreement
 
 ### Accreditation post 1 July 2022
 
@@ -69,10 +69,10 @@ To protect the interests of end-users and the other service providers operating 
 
 The due diligence checks include:
 
-•	confirmation the entity providing the service is a registered business
-•	confirmation the entity providing the service is not insolvent
-•	confirmation the entity’s senior office holders are not banned, disqualified or bankrupt
-•	criminal record check.
+- confirmation the entity providing the service is a registered business
+- confirmation the entity providing the service is not insolvent
+- confirmation the entity’s senior office holders are not banned, disqualified or bankrupt
+- criminal record check.
 
 You must also confirm your intent to procure / provide evidence of an enforceable professional indemnity insurance policy of at least $10 million AUD (or equivalent in other currency) per occurrence. This helps ensure that you can mitigate against the risk of claims extending to other eInvoicing network participants. This insurance must be in place before live connection to the eInvoicing network.
 
@@ -80,22 +80,22 @@ You must also confirm your intent to procure / provide evidence of an enforceabl
 
 All service providers are required to complete and submit the A-NZ eInvoicing security questionnaire.  The questionnaire requires evidence of the following:
 
-**•	Self-assessment or independent audit against ISO/IEC 27001 or ASD/NZ ISM, including suitable evidence for the following controls:
-o	Encryption key management
-o	Network segregation
-o	Audit logging
-o	Patch and vulnerability management program
-o	Information security awareness, education and training
-o	Physical and environmental security
-o	Operational procedures and responsibility
-o	System acquisition, development and maintenance – including secure coding practices
-o	System access control
-o	Personnel security
-o	Backup
-•	Encryption in transit (Access Points only).
-•	Encryption at rest.
-•	Security monitoring practices.
-•	Multifactor authentication (Access Points only).**
+- Self-assessment or independent audit against ISO/IEC 27001 or ASD/NZ ISM, including suitable evidence for the following controls:
+-  Encryption key management
+-  Network segregation
+-  Audit logging
+-  Patch and vulnerability management program
+-  Information security awareness, education and training
+-  Physical and environmental security
+-  Operational procedures and responsibility
+-  System acquisition, development and maintenance – including secure coding practices
+-  System access control
+-  Personnel security
+-  Backup
+- Encryption in transit (Access Points only).
+- Encryption at rest.
+- Security monitoring practices.
+- Multifactor authentication (Access Points only).
 
 ## 5. Test the service offering
 To verify the service offering of the Peppol Service Provider conforms to Peppol specifications and the additional local requirements in Australia you are required to sequentially execute these steps.
@@ -148,11 +148,12 @@ For access points who have completed all the steps of accreditation in Australia
 ## Annual review of accredited Peppol Service Providers
 
 It is expected that all accredited Peppol Service Providers will meet the requirements of accreditation on an on-going basis. An annual review of accredited Peppol Service Providers will take place to provide this assurance and include:
-•	Due diligence checks and provision of a current enforceable Professional Indemnity Insurance policy of at least $10 million AUD (or equivalent in other currency) per occurrence.
-•	Adherence to A-NZ eInvoicing security requirements which includes: 
-o	Completion of section A of the A-NZ eInvoicing Security Questionnaire.
-o	Review your evidence to ensure it aligns to the current security requirements and is up to date. Submit updated evidence where required.
-o	Advise if there have been changes to your business or product environment.
+
+- Due diligence checks and provision of a current enforceable Professional Indemnity Insurance policy of at least $10 million AUD (or equivalent in other currency) per occurrence.
+- Adherence to A-NZ eInvoicing security requirements which includes: 
+-  Completion of section A of the A-NZ eInvoicing Security Questionnaire.
+-  Review your evidence to ensure it aligns to the current security requirements and is up to date. Submit updated evidence where required.
+-  Advise if there have been changes to your business or product environment.
 
 ## Specifications and associated guidance notes
 
