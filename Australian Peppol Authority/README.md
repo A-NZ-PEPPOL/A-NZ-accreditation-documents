@@ -10,9 +10,9 @@ The Peppol network is reliant on Peppol Service Providers to publish and find de
 
 Accreditation is a process a Peppol Service Provider must complete to transact in the Peppol Network. OpenPeppol is responsible for determining which Peppol Authority you will need to complete accreditation with.
 
-To determine this you will need to register with OpenPeppolExternal link. OpenPeppol charge an annual membership fee based on a calendar year regardless of your accreditation status - as such we recommend reading the steps to accreditation before initiating this step.
+To determine this you will need to register with [OpenPeppol](https://peppol.eu/get-involved/join-openpeppol/). OpenPeppol charge an annual membership fee based on a calendar year regardless of your accreditation status - as such we recommend reading the steps to accreditation before initiating this step.
 
-If you have already been accredited with a Peppol Authority in another jurisdiction but want to provide your services to an Australian business, you will need to adhere to the Peppol Authority specific requirements which are listed on Internationally accredited Peppol Service Provider.
+If you have already been accredited with a Peppol Authority in another jurisdiction but want to provide your services to an Australian business, you will need to adhere to the Peppol Authority specific requirements which are listed on [Internationally accredited Peppol Service Provider](https://softwaredevelopers.ato.gov.au/internationally-accredited-peppol-service-provider).
 
 To become an accredited Peppol Service provider it is essential to understand the Peppol environment and its structure.Below is a brief overview of key Peppol resources:
 
@@ -116,11 +116,11 @@ The Acceptance Test is conducted in the OpenPeppol central test bed and formally
 •	validating your ability to send/receive business documents to/from the Test AP
 •	generating acknowledgment of the documents sent.
 
-Upon completion of the test, you must provide the results to OpenPeppol for verification. This can be done via the OpenPeppol Jira Service Desk portalExternal link. In the portal select ‘Test and Onboarding’. OpenPeppol will notify us when you have successfully completed Acceptance Testing.
+Upon completion of the test, you must provide the results to OpenPeppol for verification. This can be done via the [Open Peppol Jira Service Desk](https://openpeppol.atlassian.net/servicedesk/customer/portal/1). In the portal select ‘Test and Onboarding’. OpenPeppol will notify us when you have successfully completed Acceptance Testing.
 
 ### Step 4: Complete Interoperability testing
 
-Interoperability testing will be completed to ensure that you can send a Peppol invoice as per A-NZ Peppol BIS 3.0 specificationsExternal link with an Australian or New Zealand accredited access pointExternal link.
+Interoperability testing will be completed to ensure that you can send a Peppol invoice as per [A-NZ Peppol BIS 3.0 specifications](https://github.com/A-NZ-PEPPOL/A-NZ-PEPPOL-BIS-3.0) with an [Australian or New Zealand accredited access point](https://www.ato.gov.au/Business/eInvoicing/Finding-an-eInvoicing-accredited-service-provider/?=Redirected_URL).
 
 We can help facilitate an Interoperability Test with an existing Australian accredited access point or access point who has adhered to the Australian Peppol Authority specific requirements. A lead time of two weeks is generally required to allow us to identify and engage a suitable test partner with whom the Interoperability Test can be scheduled. 
 
@@ -135,7 +135,7 @@ We will request additional information to add your solution to the list of eInvo
 
 ## 7. Request Production Public Key Infrastructure (PKI) Certificate
 
-Request the production certificate through the OpenPeppol Jira Service Desk portalExternal link. In the portal select ‘PKI Certificate Request’ and complete the certificate request form. You will need to attach an up-to-date copy of your Peppol Service Provider agreement and company registration document as part of the request.
+Request the production certificate through the [Open Peppol Jira Service Desk](https://openpeppol.atlassian.net/servicedesk/customer/portal/1). In the portal select ‘PKI Certificate Request’ and complete the certificate request form. You will need to attach an up-to-date copy of your Peppol Service Provider agreement and company registration document as part of the request.
 
 Outstanding membership fees will need to be paid to OpenPeppol before the request will be processed. OpenPeppol will then assign the certificate request to us for final approval.Once approved you, the Service Provider, will have 10 days to download the production certificate.  Certificates not downloaded within this timeframe will expire. If this occurs, the Service Provider will need to raise a new Service Desk request to have the certificate renewed.
 
@@ -149,7 +149,8 @@ For access points who have completed all the steps of accreditation in Australia
 
 It is expected that all accredited Peppol Service Providers will meet the requirements of accreditation on an on-going basis. An annual review of accredited Peppol Service Providers will take place to provide this assurance and include:
 
-Due diligence checks and provision of a current enforceable Professional Indemnity Insurance policy of at least $10 million AUD (or equivalent in other currency) per occurrence.
+Provide an up to date provision of a current enforceable Professional Indemnity Insurance policy of at least $10 million AUD per occurrence (or equivalent in other currency) 
+Senior office holders confirmed with subsequent due diligence checks
 Adherence to A-NZ eInvoicing security requirements which includes: 
 -  Completion of section A of the A-NZ eInvoicing Security Questionnaire.
 -  Review your evidence to ensure it aligns to the current security requirements and is up to date. Submit updated evidence where required.
@@ -187,7 +188,7 @@ If you have questions on the process prior to submitting an expression of intere
 
 ## 1. Submit an expression of interest
 
-To submit an expression of interest with the Australian Peppol Authority do this via ATO Digital service provider (DSP) PortalExternal link. You can find out how to register and access the Portal from Online services for DSPs.
+To submit an expression of interest with the Australian Peppol Authority do this via [ATO Digital service provider (DSP) Portal](https://developer.sbr.gov.au/portal/servicedesk/customer/portal/1). You can find out how to register and access the Portal from [Online services for DSPs](https://softwaredevelopers.ato.gov.au/OnlineservicesforDSPs).
 
 If you are not able to access the ATO DSP Portal because you are not eligible to register, you can submit via eInvoicing@ato.gov.au.
 
