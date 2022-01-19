@@ -40,7 +40,7 @@ The steps do not necessarily need to be completed in sequence, but all must be f
 
 ## 1. Submit an expression of interest
 
-To submit an expression of interest with the Australian Peppol Authority do this via ATO Digital service provider (DSP) PortalExternal link. You can find out how to register and access the Portal from Online services for DSPs.
+To submit an expression of interest with the Australian Peppol Authority do this via [ATO Digital service provider (DSP) Portal](https://developer.sbr.gov.au/portal/servicedesk/customer/portal/1). You can find out how to register and access the Portal from [Online services for DSPs](https://softwaredevelopers.ato.gov.au/OnlineservicesforDSPs).
 
 If you are not able to access the ATO DSP Portal because you are not eligible to register, you can submit a request for the EOI via eInvoicing@ato.gov.au.
 
@@ -104,7 +104,7 @@ To verify the service offering of the Peppol Service Provider conforms to Peppol
 Complete unit testing in your own environment to verify that your service can send and receive Peppol BIS documents in line with the Peppol eDelivery Network specifications.
 
 ### Step 2: Obtain Test PKI Certificate
-Obtain the test certificate via the OpenPeppol Jira Service Desk portalExternal link. On the portal main page select ‘PKI Certificate Request’ and complete the certificate request form. You will need to attach an up-to-date copy of your Peppol Service Provider agreement and company registration document as part of the request.Outstanding membership fees will need to be paid to OpenPeppol before the request will be processed. OpenPeppol will then assign the certificate request to us for final approval.
+Obtain the test certificate via the [OpenPeppol Jira Service Desk portal](https://openpeppol.atlassian.net/servicedesk/customer/portal/1). On the portal main page select ‘PKI Certificate Request’ and complete the certificate request form. You will need to attach an up-to-date copy of your Peppol Service Provider agreement and company registration document as part of the request.Outstanding membership fees will need to be paid to OpenPeppol before the request will be processed. OpenPeppol will then assign the certificate request to us for final approval.
 
 Once approved you, the Service Provider, will have 10 days to download your test certificate. Certificates not downloaded within this timeframe will expire. If this occurs, you will need to raise a new Service Desk request to have the certificate renewed.
 
@@ -131,7 +131,7 @@ Upon successful completion of Interoperability Testing, you will need to provide
 ## 6. Receive accreditation
 
 We will confirm all required activities have been successfully completed and notify you that the accreditation process has been finalised.
-We will request additional information to add your solution to the list of eInvoicing accredited service providersExternal link on the ATO website.
+We will request additional information to add your solution to the list of [eInvoicing accredited service providers](https://www.ato.gov.au/business/eInvoicing/finding-an-eInvoicing-accredited-service-provider/) on the ATO website.
 
 ## 7. Request Production Public Key Infrastructure (PKI) Certificate
 
@@ -245,7 +245,7 @@ Multifactor authentication (Access Points only).
 
 ## 5. Interoperability testing
 
-Interoperability testing will be completed to ensure that you can send a Peppol invoice as per the A-NZ Peppol BIS 3.0 specificationsExternal link with an Australian or New Zealand accredited access pointExternal link.
+Interoperability testing will be completed to ensure that you can send a Peppol invoice as per the [A-NZ Peppol BIS 3.0 specifications](https://github.com/A-NZ-PEPPOL/A-NZ-PEPPOL-BIS-3.0) with an [Australian or New Zealand accredited access point](https://www.ato.gov.au/Business/eInvoicing/Finding-an-eInvoicing-accredited-service-provider/?=Redirected_URL).
 
 We can help facilitate an Interoperability Test with an existing Australian accredited access point or access point who has adhered to the Australian Peppol Authority specific requirements. A lead time of two weeks is generally required to allow us to identify and engage a suitable test partner with whom the Interoperability Test can be scheduled.
 
@@ -256,7 +256,7 @@ Upon successful completion of Interoperability Testing, you will need to provide
 ## 6. Receive acknowledgement of meeting the Peppol Authority
 
 We will confirm all required activities have been successfully completed and provide acknowledgement that you have met the Peppol Authority Specific Requirements.
-We will also add you to the list of Australian eInvoicing access point providers listExternal link on the ATO website.
+We will also add you to the list of Australian [eInvoicing access point providers list](https://www.ato.gov.au/Business/eInvoicing/Finding-an-eInvoicing-accredited-service-provider/?=Redirected_URL) on the ATO website.
 
 ## Mutual acknowledgement with New Zealand
 
