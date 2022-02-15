@@ -82,25 +82,13 @@ You must also confirm your intent to procure / provide evidence of an enforceabl
 
 All service providers are required to complete and submit the [A-NZ eInvoicing security questionnaire](https://github.com/A-NZ-PEPPOL/A-NZ-accreditation-documents/raw/master/Australian%20Peppol%20Authority/A-NZ_e-Invoicing_Security_Questionnaire_v1.docx).  The security control requirements include:
 
-Self-assessment or independent audit against ISO/IEC 27001 or ASD/NZ ISM, including suitable evidence for the following controls:
--  Encryption key management
--  Network segregation
--  Audit logging
--  Patch and vulnerability management program
--  Information security awareness, education and training
--  Physical and environmental security
--  Operational procedures and responsibility
--  System acquisition, development and maintenance – including secure coding practices
--  System access control
--  Personnel security
--  Backup
-
+- Self-assessment or independent audit against ISO/IEC 27001 or ASD/NZ ISM
 - Encryption at rest.
 - Security monitoring practices.
 - Encryption in transit (Access Points only).
 - Multifactor authentication (Access Points only).
 
-For further information you should refer to [A-NZ Information Security guidance for eInvoicing Service Providers](https://github.com/A-NZ-PEPPOL/Guidance-documents/raw/master/GuidanceNote03_Information%20Security_v1.0.docx).
+For further information on security controls refer to [A-NZ Information Security guidance for eInvoicing Service Providers](https://github.com/A-NZ-PEPPOL/Guidance-documents/raw/master/GuidanceNote03_Information%20Security_v1.0.docx).
 
 ## 5. Test the service offering
 To verify the service offering of the Peppol Service Provider conforms to Peppol specifications and the additional local requirements in Australia you are required to sequentially execute these steps.
@@ -233,25 +221,13 @@ You must also confirm your intent to procure/provide evidence of an enforceable 
 
 All service providers are required to complete and submit the [A-NZ eInvoicing security questionnaire](https://github.com/A-NZ-PEPPOL/A-NZ-accreditation-documents/raw/master/Australian%20Peppol%20Authority/A-NZ_e-Invoicing_Security_Questionnaire_v1.docx).  The security control requirements include:
 
-Self-assessment or independent audit against ISO/IEC 27001 or ASD/NZ ISM, including suitable evidence for the following controls:
-- Encryption key management
-- Network segregation
-- Audit logging
-- Patch and vulnerability management program
-- Information security awareness, education and training
-- Physical and environmental security
-- Operational procedures and responsibility
-- System acquisition, development and maintenance – including secure coding practices
-- System access control
-- Personnel security
-- Backup
-
+- Self-assessment or independent audit against ISO/IEC 27001 or ASD/NZ ISM
 - Encryption at rest.
 - Security monitoring practices.
 - Encryption in transit (Access Points only).
 - Multifactor authentication (Access Points only).
 
-For further information you should refer to [A-NZ Information Security guidance for eInvoicing Service Providers](https://github.com/A-NZ-PEPPOL/Guidance-documents/raw/master/GuidanceNote03_Information%20Security_v1.0.docx).
+For further information on the security requirements should refer to [A-NZ Information Security guidance for eInvoicing Service Providers](https://github.com/A-NZ-PEPPOL/Guidance-documents/raw/master/GuidanceNote03_Information%20Security_v1.0.docx).
 
 ## 5. Interoperability testing
 
