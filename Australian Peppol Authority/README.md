@@ -21,7 +21,7 @@ To become an accredited Peppol Service provider it is essential to understand th
 - [Business interoperability specifications overview](https://peppol.eu/what-is-peppol/peppol-profiles-specifications/) and [Post award specifications](https://peppol.eu/downloads/post-award/)
 - [Peppol Compliance Policy](https://peppol.eu/downloads/compliance/) 
 
-Once you have reviewed these resources and are ready to proceed, follow the below steps.
+If service providers have questions or would like a meeting to discuss the accreditation steps reach out to eInvoicing@ato.gov.au or through [Online services for DSPs](https://softwaredevelopers.ato.gov.au/OnlineservicesforDSPs).
 
 # Steps to become an accredited Peppol Service Provider in Australia
 
@@ -49,6 +49,8 @@ Once registered we will provide a Peppol Service Provider onboarding pack that i
 ## 2. Legal agreements
 
 OpenPeppol and Peppol Authorities have recently endorsed new agreements (Peppol Service Provider Agreement) which come into effect from 1 July 2022.
+
+All legal agreements are publicly available at [A-NZ Accreditation documents](https://github.com/A-NZ-PEPPOL/A-NZ-accreditation-documents/tree/master/Australian%20Peppol%20Authority).
 
 ### Accreditation prior to 1 July 2022
 
@@ -78,7 +80,7 @@ You must also confirm your intent to procure / provide evidence of an enforceabl
 
 ## 4. Complete A-NZ eInvoicing security questionnaire
 
-All service providers are required to complete and submit the A-NZ eInvoicing security questionnaire.  The questionnaire requires evidence of the following:
+All service providers are required to complete and submit the [A-NZ eInvoicing security questionnaire](https://github.com/A-NZ-PEPPOL/A-NZ-accreditation-documents/raw/master/Australian%20Peppol%20Authority/A-NZ_e-Invoicing_Security_Questionnaire_v1.docx).  The security control requirements include:
 
 Self-assessment or independent audit against ISO/IEC 27001 or ASD/NZ ISM, including suitable evidence for the following controls:
 -  Encryption key management
@@ -96,6 +98,8 @@ Encryption in transit (Access Points only).
 Encryption at rest.
 Security monitoring practices.
 Multifactor authentication (Access Points only).
+
+For further information you should refer to [A-NZ Information Security guidance for eInvoicing Service Providers](https://github.com/A-NZ-PEPPOL/Guidance-documents/raw/master/GuidanceNote03_Information%20Security_v1.0.docx).
 
 ## 5. Test the service offering
 To verify the service offering of the Peppol Service Provider conforms to Peppol specifications and the additional local requirements in Australia you are required to sequentially execute these steps.
@@ -130,7 +134,7 @@ Upon successful completion of Interoperability Testing, you will need to provide
 
 ## 6. Receive accreditation
 
-We will confirm all required activities have been successfully completed and notify you that the accreditation process has been finalised.
+We will confirm all required activities have been successfully completed and confirm when your annual review will occur.
 We will request additional information to add your solution to the list of [eInvoicing accredited service providers](https://www.ato.gov.au/business/eInvoicing/finding-an-eInvoicing-accredited-service-provider/) on the ATO website.
 
 ## 7. Request Production Public Key Infrastructure (PKI) Certificate
@@ -184,7 +188,7 @@ These steps do not necessarily need to be completed in sequence, but all must be
 5.	Interoperability testing
 6.	Receive acknowledgment of meeting the Peppol Authority Specific Requirement
 
-If you have questions on the process prior to submitting an expression of interest contact the Australian Peppol Authority via eInvoicing@ato.gov.au.
+If service providers have questions or would like a meeting to discuss the accreditation steps reach out to eInvoicing@ato.gov.au.
 
 ## 1. Submit an expression of interest
 
@@ -197,6 +201,8 @@ Once registered we will provide an onboarding pack that includes additional info
 ## 2. Legal Agreements
 
 The legal agreements set the minimum requirements to be applied throughout the entire Peppol eDelivery Network. OpenPeppol and Peppol Authorities have recently endorsed new agreements which come into effect from 1 July 2022. For internationally accredited Peppol service providers to adhere to the requirements of the Australian Peppol Authority the requirements will change depending on the below dates.
+
+All legal agreements are publicly available at [A-NZ Accreditation documents](https://github.com/A-NZ-PEPPOL/A-NZ-accreditation-documents/tree/master/Australian%20Peppol%20Authority).
 
 ### Accreditation prior to July 1, 2022
 
@@ -224,7 +230,7 @@ You must also confirm your intent to procure/provide evidence of an enforceable 
 
 ## 4. Complete the A-NZ eInvoicing security questionnaire
 
-We will require you to complete the A-NZ eInvoicing security questionnaire to confirm the existence of appropriate security controls. The security control requirements include:
+All service providers are required to complete and submit the [A-NZ eInvoicing security questionnaire](https://github.com/A-NZ-PEPPOL/A-NZ-accreditation-documents/raw/master/Australian%20Peppol%20Authority/A-NZ_e-Invoicing_Security_Questionnaire_v1.docx).  The security control requirements include:
 
 Self-assessment or independent audit against ISO/IEC 27001 or ASD/NZ ISM, including suitable evidence for the following controls:
 - Encryption key management
@@ -243,6 +249,8 @@ Encryption at rest.
 Security monitoring practices.
 Multifactor authentication (Access Points only).
 
+For further information you should refer to [A-NZ Information Security guidance for eInvoicing Service Providers](https://github.com/A-NZ-PEPPOL/Guidance-documents/raw/master/GuidanceNote03_Information%20Security_v1.0.docx).
+
 ## 5. Interoperability testing
 
 Interoperability testing will be completed to ensure that you can send a Peppol invoice as per the [A-NZ Peppol BIS 3.0 specifications](https://github.com/A-NZ-PEPPOL/A-NZ-PEPPOL-BIS-3.0) with an [Australian or New Zealand accredited access point](https://www.ato.gov.au/Business/eInvoicing/Finding-an-eInvoicing-accredited-service-provider/?=Redirected_URL).
@@ -255,8 +263,8 @@ Upon successful completion of Interoperability Testing, you will need to provide
 
 ## 6. Receive acknowledgement of meeting the Peppol Authority
 
-We will confirm all required activities have been successfully completed and provide acknowledgement that you have met the Peppol Authority Specific Requirements.
-We will also add you to the list of Australian [eInvoicing access point providers list](https://www.ato.gov.au/Business/eInvoicing/Finding-an-eInvoicing-accredited-service-provider/?=Redirected_URL) on the ATO website.
+We will confirm all required activities have been successfully completed and confirm when your annual review will occur.
+We will also request additional information to add your solution to the list of Australian [eInvoicing access point providers list](https://www.ato.gov.au/Business/eInvoicing/Finding-an-eInvoicing-accredited-service-provider/?=Redirected_URL) on the ATO website.
 
 ## Mutual acknowledgement with New Zealand
 
