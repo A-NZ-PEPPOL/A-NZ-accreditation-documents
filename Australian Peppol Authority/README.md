@@ -94,10 +94,10 @@ Self-assessment or independent audit against ISO/IEC 27001 or ASD/NZ ISM, includ
 -  System access control
 -  Personnel security
 -  Backup
-Encryption in transit (Access Points only).
-Encryption at rest.
-Security monitoring practices.
-Multifactor authentication (Access Points only).
+- Encryption in transit (Access Points only).
+- Encryption at rest.
+- Security monitoring practices.
+- Multifactor authentication (Access Points only).
 
 For further information you should refer to [A-NZ Information Security guidance for eInvoicing Service Providers](https://github.com/A-NZ-PEPPOL/Guidance-documents/raw/master/GuidanceNote03_Information%20Security_v1.0.docx).
 
@@ -244,10 +244,10 @@ Self-assessment or independent audit against ISO/IEC 27001 or ASD/NZ ISM, includ
 - System access control
 - Personnel security
 - Backup
-Encryption in transit (Access Points only).
-Encryption at rest.
-Security monitoring practices.
-Multifactor authentication (Access Points only).
+- Encryption in transit (Access Points only).
+- Encryption at rest.
+- Security monitoring practices.
+- Multifactor authentication (Access Points only).
 
 For further information you should refer to [A-NZ Information Security guidance for eInvoicing Service Providers](https://github.com/A-NZ-PEPPOL/Guidance-documents/raw/master/GuidanceNote03_Information%20Security_v1.0.docx).
 
