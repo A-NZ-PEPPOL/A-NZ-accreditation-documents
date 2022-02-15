@@ -105,9 +105,9 @@ Once approved you, the Service Provider, will have 10 days to download your test
 
 The Acceptance Test is conducted in the OpenPeppol central test bed and formally tests your compliance with Peppol eDelivery Network specifications. This test may be completed by you without OpenPeppol intervention, with the Test PKI Certificate acting as a logon to enter the central test bed from which the test may be executed. Acceptance Testing involves:
 
-•	verification of your certificates (both the Peppol and TLS certificate)
-•	validating your ability to send/receive business documents to/from the Test AP
-•	generating acknowledgment of the documents sent.
+- verification of your certificates (both the Peppol and TLS certificate)
+- validating your ability to send/receive business documents to/from the Test AP
+- generating acknowledgment of the documents sent.
 
 Upon completion of the test, you must provide the results to OpenPeppol for verification. This can be done via the [Open Peppol Jira Service Desk](https://openpeppol.atlassian.net/servicedesk/customer/portal/1). In the portal select ‘Test and Onboarding’. OpenPeppol will notify us when you have successfully completed Acceptance Testing.
 
