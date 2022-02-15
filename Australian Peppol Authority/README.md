@@ -142,9 +142,8 @@ For access points who have completed all the steps of accreditation in Australia
 
 It is expected that all accredited Peppol Service Providers will meet the requirements of accreditation on an on-going basis. An annual review of accredited Peppol Service Providers will take place to provide this assurance and include:
 
-Provide an up to date provision of a current enforceable Professional Indemnity Insurance policy of at least $10 million AUD per occurrence (or equivalent in other currency) 
-Senior office holders confirmed with subsequent due diligence checks
-Adherence to A-NZ eInvoicing security requirements which includes: 
+- Provide an up to date provision of a current enforceable Professional Indemnity Insurance policy of at least $10 million AUD per occurrence (or equivalent in other currency) 
+- Senior office holders confirmed with subsequent due diligence checks 
 -  Completion of section A of the A-NZ eInvoicing Security Questionnaire.
 -  Review your evidence to ensure it aligns to the current security requirements and is up to date. Submit updated evidence where required.
 -  Advise if there have been changes to your business or product environment.
@@ -255,11 +254,11 @@ Annual Review of Peppol Specific requirements
 
 It is expected that all accredited Peppol Service Providers will meet the requirements of accreditation on an on-going basis. An annual review of accredited Peppol Service Providers will take place to provide this assurance and include:
 
-Due diligence checks and provision of a current enforceable Professional Indemnity Insurance policy of at least $10 million AUD (or equivalent in other currency) per occurrence.
-Adherence to A-NZ eInvoicing security requirements which includes: 
-- Completion of section A of the A-NZ eInvoicing Security Questionnaire.
-- Review your evidence to ensure it aligns to the current security requirements and is up to date. Submit updated evidence where required.
-- Advise if there have been changes to your business or product environment.
+- Provide an up to date provision of a current enforceable Professional Indemnity Insurance policy of at least $10 million AUD per occurrence (or equivalent in other currency) 
+- Senior office holders confirmed with subsequent due diligence checks 
+-  Completion of section A of the A-NZ eInvoicing Security Questionnaire.
+-  Review your evidence to ensure it aligns to the current security requirements and is up to date. Submit updated evidence where required.
+-  Advise if there have been changes to your business or product environment.
 
 ## Specifications and associated guidance notes
 
