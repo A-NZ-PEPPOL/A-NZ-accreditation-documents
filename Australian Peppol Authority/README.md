@@ -268,4 +268,4 @@ To assist with invoice processing in Australian and New Zealand we recommend imp
 Specifications and associated guidance notes for your implementation can be found on [A-NZ Peppol GitHub](https://github.com/A-NZ-PEPPOL)
 
 ## Contact us
-For further information and to provide feedback email eInvoicing@ato.gov.au
+For further information and to provide feedback email eInvoicing@ato.gov.au.
