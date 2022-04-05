@@ -76,7 +76,7 @@ The due diligence checks include:
 - confirmation the entity’s senior office holders are not banned, disqualified or bankrupt
 - criminal record check.
 
-You must provide evidence of an enforceable professional indemnity or professional liability insurance policy of at least $1 million AUD (or equivalent in other currency) per occurrence. We recommend that service providers ensure the level of coverage is commensurate to their level of risk exposure and adjust to a higher level of insurance where applicable. This helps ensure that you can mitigate against the risk of claims extending to other eInvoicing network participants. This insurance must be in place before live connection to the eInvoicing network.
+You must provide evidence of an enforceable professional indemnity insurance policy of at least $1 million AUD (or equivalent in other currency) per occurrence. We recommend that service providers ensure the level of coverage is commensurate to their level of risk exposure and adjust to a higher level of insurance where applicable.
 
 ## 4. Complete A-NZ eInvoicing security questionnaire
 
@@ -214,7 +214,7 @@ To protect the interests of end-users and the other service providers operating 
 
 We recognise that these checks are dependent on the information available in the local jurisdiction of the service provider.
 
-You must provide evidence of an enforceable professional indemnity or professional liability insurance policy of at least $1 million AUD (or equivalent in other currency) per occurrence. We recommend that service providers ensure the level of coverage is commensurate to their level of risk exposure and adjust to a higher level of insurance where applicable. This helps ensure that you can mitigate against the risk of claims extending to other eInvoicing network participants. This insurance must be in place before live connection to the eInvoicing network.
+You must provide evidence of an enforceable professional indemnity insurance policy of at least $1 million AUD (or equivalent in other currency) per occurrence. We recommend that service providers ensure the level of coverage is commensurate to their level of risk exposure and adjust to a higher level of insurance where applicable.
 
 ## 4. Complete the A-NZ eInvoicing security questionnaire
 
