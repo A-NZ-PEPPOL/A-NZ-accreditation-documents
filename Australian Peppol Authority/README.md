@@ -23,7 +23,7 @@ To become an accredited Peppol Service provider it is essential to understand th
 
 If service providers have questions or would like a meeting to discuss the accreditation steps reach out to eInvoicing@ato.gov.au or through [Online services for DSPs](https://softwaredevelopers.ato.gov.au/OnlineservicesforDSPs).
 
-# Steps to become an accredited Peppol Service Provider in Australia
+# Steps for Australian domiciled Peppol Service Providers to become accredited in Australia
 
 The steps below will apply to Peppol Service Providers who have registered with OpenPeppol and have received advice to complete accreditation with the Australian Peppol Authority.
 
