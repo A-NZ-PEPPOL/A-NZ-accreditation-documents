@@ -48,22 +48,10 @@ Once registered we will provide a Peppol Service Provider onboarding pack that i
 
 ## 2. Legal agreements
 
-OpenPeppol and Peppol Authorities have recently endorsed new agreements (Peppol Service Provider Agreement) which come into effect from 1 July 2022.
+OpenPeppol and Peppol Authorities endorsed the Peppol Service Provider Agreement which came into effect from 1 July 2022 and replaced the prior Peppol agreements which include the Transport Infrastructure Agreement and associated annexes, Peppol AP & SMP agreements.
 
-All legal agreements are publicly available at [A-NZ Accreditation documents](https://github.com/A-NZ-PEPPOL/A-NZ-accreditation-documents/tree/master/Australian%20Peppol%20Authority).
+The [Peppol Service Provider agreement](https://github.com/A-NZ-PEPPOL/A-NZ-accreditation-documents/raw/master/Australian%20Peppol%20Authority/PeppolServiceProviderAgreement_v4.0%20January%202022.docx) sets out the roles and responsibilities of service providers and the ATO in its role as the Australian Peppol Authority. 
 
-### Accreditation prior to 1 July 2022
-
-The Transport Infrastructure Agreements (TIA) sets the minimum requirements to be consistently applied throughout the entire Peppol eDelivery Network. The Annex 5 to the TIA contains the details of the additional requirements and criteria that apply to service providers operating in Australia. For Peppol service providers who are looking to become accredited prior to this date they will need to sign both the new and old agreements below:
-
-- Transport Infrastructure agreement
-- Annexes 1 to 6
-- Peppol AP and SMP provider agreements
-- Peppol Service Provider Agreement
-
-### Accreditation post 1 July 2022
-
-For Peppol service providers who are looking to become accredited post this date they will need to sign the Peppol Service Provider agreement with the Australian Peppol Authority. The Peppol Service Provider agreement is a legal agreement which outlines the roles and responsibility of both you, as the service provider, and us, as the Peppol Authority.
 
 ## 3. Due Diligence check
 
@@ -188,20 +176,10 @@ Once registered we will provide an onboarding pack that includes additional info
 
 ## 2. Legal Agreements
 
-The legal agreements set the minimum requirements to be applied throughout the entire Peppol eDelivery Network. OpenPeppol and Peppol Authorities have recently endorsed new agreements which come into effect from 1 July 2022. For internationally accredited Peppol service providers to adhere to the requirements of the Australian Peppol Authority the requirements will change depending on the below dates.
+The legal agreements set the minimum requirements to be applied throughout the entire Peppol eDelivery Network. OpenPeppol and Peppol Authorities have endorsed the Peppol Service Provider agreement which come into effect from 1 July 2022 and replaces the prior agreements.
 
-All legal agreements are publicly available at [A-NZ Accreditation documents](https://github.com/A-NZ-PEPPOL/A-NZ-accreditation-documents/tree/master/Australian%20Peppol%20Authority).
+For internationally accredited Peppol service providers we will provide a countersigned copy of the Peppol Service provider agreement.
 
-### Accreditation prior to July 1, 2022
-
-For internationally accredited Peppol service providers who are looking to become accredited or meet the Australian Peppol Authority Specific requirements prior to this date they will need to:
-
-- Provide a copy of the signed Transport Infrastructure agreement, Peppol AP and SMP provider agreements.
-- Sign the Australian Annex 5.
-
-### Accreditation post July 1, 2022
-
-For Peppol service providers who are looking to become accredited post this date they will need to provide a copy of the signed Peppol Service Provider agreement.
 
 ## 3. Due diligence
 
