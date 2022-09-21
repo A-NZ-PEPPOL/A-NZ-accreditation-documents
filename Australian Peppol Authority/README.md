@@ -128,7 +128,7 @@ You will need to provide us with the interoperability test results.
 
 Once you have successfully completed all the steps of the accreditation process, we will confirm you are now accredited in Australia. We will also advise you of your annual review date request details to support:
 
-- listing your solution as an [Australian accredited Peppol Service Provider] ( https://softwaredevelopers.ato.gov.au/accreditation-Peppol-service-provider-register)
+- listing your solution as an [Australian accredited Peppol Service Provider]( https://softwaredevelopers.ato.gov.au/accreditation-Peppol-service-provider-register)
 - adding contacts for the service provider forum and monthly reporting
 - mutual accreditation with New Zealand.
 
@@ -136,7 +136,7 @@ Once you have successfully completed all the steps of the accreditation process,
 
 We will return a countersigned copy of the Peppol service provider agreement.
 
-You will need to obtain a production certificate to begin transacting in the Peppol network. The production certificate is obtained via the [OpenPeppol JIRA service desk] (https://openpeppol.atlassian.net/servicedesk/customer/portal/1). Select ‘PKI Certificate Request’, and choose ‘production’ at the certificate purpose option and complete remaining fields.
+You will need to obtain a production certificate to begin transacting in the Peppol network. The production certificate is obtained via the [OpenPeppol JIRA service desk](https://openpeppol.atlassian.net/servicedesk/customer/portal/1). Select ‘PKI Certificate Request’, and choose ‘production’ at the certificate purpose option and complete remaining fields.
 
 Once OpenPeppol approves your certificate, you will have 10 days to download your certificate. Certificates not downloaded within this timeframe will expire and you will need to raise a new Service Desk request to have the certificate reissued.
 
@@ -159,13 +159,13 @@ There will be an annual review of the accreditation status to ensure Peppol serv
 
 ## Peppol technical and policy documents
 
-o	[Peppol eDelivery Network – overview]( https://peppol.eu/what-is-peppol/peppol-transport-infrastructure/) 
-o	[Peppol eDelivery network specifications]( https://peppol.eu/downloads/the-peppol-edelivery-network-specifications/) 
-o	[Access Point Implementation guides](https://peppol.eu/downloads/ap-guidelines/)
-o	[Peppol Business Interoperability Specification (BIS) overview](https://peppol.eu/what-is-peppol/peppol-profiles-specifications/ and [post-award BIS specifications and guidelines](https://peppol.eu/downloads/post-award/)
-o	[Peppol Service Provider Agreement](https://github.com/A-NZ-PEPPOL/A-NZ-accreditation-documents/raw/master/Australian%20Peppol%20Authority/PeppolServiceProviderAgreement_v4.0.1.docx) 
-o	[Peppol Internal Regulations](https://openpeppol.atlassian.net/wiki/download/attachments/2889252865/Internal%20Regulations%20-%20Use%20of%20Peppol%20Network_v1.0.1%20APPROVED%202022.06.21.pdf?api=v2)
-o	[Peppol operational procedures](https://openpeppol.atlassian.net/wiki/spaces/AF/pages/2891251733/Peppol+Interoperability+Framework+1+Juy+2022#B4.-Operational-Procedures) 
+- [Peppol eDelivery Network – overview]( https://peppol.eu/what-is-peppol/peppol-transport-infrastructure/) 
+- [Peppol eDelivery network specifications]( https://peppol.eu/downloads/the-peppol-edelivery-network-specifications/) 
+- [Access Point Implementation guides](https://peppol.eu/downloads/ap-guidelines/)
+- [Peppol Business Interoperability Specification (BIS) overview](https://peppol.eu/what-is-peppol/peppol-profiles-specifications/ and [post-award BIS specifications and guidelines](https://peppol.eu/downloads/post-award/)
+- [Peppol Service Provider Agreement](https://github.com/A-NZ-PEPPOL/A-NZ-accreditation-documents/raw/master/Australian%20Peppol%20Authority/PeppolServiceProviderAgreement_v4.0.1.docx) 
+- [Peppol Internal Regulations](https://openpeppol.atlassian.net/wiki/download/attachments/2889252865/Internal%20Regulations%20-%20Use%20of%20Peppol%20Network_v1.0.1%20APPROVED%202022.06.21.pdf?api=v2)
+- [Peppol operational procedures](https://openpeppol.atlassian.net/wiki/spaces/AF/pages/2891251733/Peppol+Interoperability+Framework+1+Juy+2022#B4.-Operational-Procedures) 
 
 Specifications and associated guidance notes for your implementation can be found on [A-NZ Peppol GitHub](https://github.com/A-NZ-PEPPOL)
 
