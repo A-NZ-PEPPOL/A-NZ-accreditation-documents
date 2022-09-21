@@ -6,9 +6,9 @@ The ATO, in its role as the Australian Peppol Authority, sets the accreditation 
 
 The requirements of accreditation are in place to:
 
-•	protect the interests of end-users and other Peppol service providers
-•	ensure interoperability of the Peppol network and ability to send or receive valid A-NZ invoices
-•	mitigate against security risks to the network.
+- protect the interests of end-users and other Peppol service providers
+- ensure interoperability of the Peppol network and ability to send or receive valid A-NZ invoices
+- mitigate against security risks to the network.
 
 # Prior to commencing accreditation
 
