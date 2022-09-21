@@ -2,7 +2,7 @@
 
 This page describes the process a Peppol service provider must complete to become an Australian accredited Peppol service provider and to be authorised to operate within Australia.
 
-The ATO, in its role as the Australian Peppol Authority, sets the accreditation requirements in Australia that form part of the [Australian Peppol Authority Specific Requirements] (https://openpeppol.atlassian.net/wiki/download/attachments/2889318401/Australia%20-%20Peppol%20Authority%20Specific%20Requirements.pdf?api=v2) 
+The ATO, in its role as the Australian Peppol Authority, sets the accreditation requirements in Australia that form part of the [Australian Peppol Authority Specific Requirements](https://openpeppol.atlassian.net/wiki/download/attachments/2889318401/Australia%20-%20Peppol%20Authority%20Specific%20Requirements.pdf?api=v2) 
 
 The requirements of accreditation are in place to:
 
@@ -22,8 +22,8 @@ If service providers have questions or would like a meeting to discuss the Peppo
 
 The Australian accreditation process applies to Peppol service providers:
 
-•	with Australia as their home Peppol Authority as determined by OpenPeppol
-•	with a home Peppol Authority that is not in Australia but is seeking to operate in Australia.
+- with Australia as their home Peppol Authority as determined by OpenPeppol
+- with a home Peppol Authority that is not in Australia but is seeking to operate in Australia.
 
 The accreditation steps include:
 
@@ -40,8 +40,8 @@ The time required to complete this process is dependent on the readiness of the 
 
 To initiate the accreditation process, submit an expression of interest (EOI) by:
 
-•	using the [Online services for DSPs](https://developer.sbr.gov.au/portal/servicedesk/customer/portal/1) for ABN holders
-•	requesting the EOI from eInvoicing@ato.gov.au for non-ABN holders.
+- using the [Online services for DSPs](https://developer.sbr.gov.au/portal/servicedesk/customer/portal/1) for ABN holders
+- requesting the EOI from eInvoicing@ato.gov.au for non-ABN holders.
 
 The EOI provides us with an overview of your company and solution. We will endeavour to respond to EOIs within 5 business days and offer an introductory meeting.
 
@@ -61,10 +61,10 @@ Provide a countersigned copy of the [Peppol Service Provider Agreement]( https:/
 
 To protect the interests of end users and the other Peppol service providers operating in the network, we will use the information provided in the EOI to complete due diligence checks including:
 
-•	confirmation the entity providing the service is a registered business
-•	confirmation the entity providing the service is not insolvent
-•	confirmation the entity’s senior office holders are not banned, disqualified or bankrupt
-•	a criminal record check.
+- confirmation the entity providing the service is a registered business
+- confirmation the entity providing the service is not insolvent
+- confirmation the entity’s senior office holders are not banned, disqualified or bankrupt
+- a criminal record check.
 
 You must provide evidence of an enforceable professional indemnity insurance policy equivalent to at least A$1 million per occurrence. When procuring professional indemnity insurance, we recommend that the level of coverage is commensurate to your level of risk exposure and that you adjust to a higher level of insurance where applicable to ensure you can mitigate against the risk of claims extending to other eInvoicing network participants.
 
@@ -108,9 +108,9 @@ The Peppol acceptance test is conducted in the OpenPeppol central test bed and f
 
 Acceptance Testing involves:
 
-•	verification of your certificates (both the Peppol and TLS certificate)
-•	validating your ability to send/receive business documents to/from the Test AP
-•	generating acknowledgment of the documents sent.
+- verification of your certificates (both the Peppol and TLS certificate)
+- validating your ability to send/receive business documents to/from the Test AP
+- generating acknowledgment of the documents sent.
 
 Once completed, submit the test results via the [OpenPeppol JIRA service desk](https://openpeppol.atlassian.net/servicedesk/customer/portal/1). On the portal main page, select ‘Test and Onboarding’ and complete the remaining fields. OpenPeppol will advise if the test results are accepted.
 
@@ -128,9 +128,9 @@ You will need to provide us with the interoperability test results.
 
 Once you have successfully completed all the steps of the accreditation process, we will confirm you are now accredited in Australia. We will also advise you of your annual review date request details to support:
 
-•	listing your solution as an [Australian accredited Peppol Service Provider] ( https://softwaredevelopers.ato.gov.au/accreditation-Peppol-service-provider-register)
-•	adding contacts for the service provider forum and monthly reporting
-•	mutual accreditation with New Zealand.
+- listing your solution as an [Australian accredited Peppol Service Provider] ( https://softwaredevelopers.ato.gov.au/accreditation-Peppol-service-provider-register)
+- adding contacts for the service provider forum and monthly reporting
+- mutual accreditation with New Zealand.
 
 ### Australian Peppol service providers ONLY
 
@@ -150,12 +150,12 @@ Once you are accredited in Australia, you can request mutual accreditation with 
 
 There will be an annual review of the accreditation status to ensure Peppol service providers continue to meet their obligations on an on-going basis. An annual review will include:
 
-•	due diligence checks completed by the Australian Peppol Authority
-•	provision of a current enforceable Professional Indemnity Insurance policy of at least A$1 million (or equivalent in other currency) per occurrence
-•	adherence to A-NZ eInvoicing security requirements, which includes
-o	completion of section A of the A-NZ eInvoicing Security Questionnaire
-o	reviewing your evidence to ensure it aligns to the current security requirements and is up to date, and submitting updated evidence where required
-o	advising if there have been changes to your business or product environment.
+- due diligence checks completed by the Australian Peppol Authority
+- provision of a current enforceable Professional Indemnity Insurance policy of at least A$1 million (or equivalent in other currency) per occurrence
+- adherence to A-NZ eInvoicing security requirements, which includes
+- completion of section A of the A-NZ eInvoicing Security Questionnaire
+- reviewing your evidence to ensure it aligns to the current security requirements and is up to date, and submitting updated evidence where required
+- advising if there have been changes to your business or product environment.
 
 ## Peppol technical and policy documents
 
