@@ -116,7 +116,7 @@ Once completed, submit the test results via the [OpenPeppol JIRA service desk](h
 
 ### Step 3: Complete Interoperability testing
 
-Interoperability testing must be completed to ensure you can send or receive a valid [A-NZ invoice] (GitHub - A-NZ-PEPPOL/A-NZ-PEPPOL-BIS-3.0: Australia-New Zealand extensions to the Peppol BIS 3.0 specifications)  with an [Australian or New Zealand accredited Peppol service provider]( https://softwaredevelopers.ato.gov.au/accreditation-Peppol-service-provider-register). The test files and the interoperability testing document will be provided at the time of testing.
+Interoperability testing must be completed to ensure you can send or receive a valid [A-NZ invoice](GitHub - A-NZ-PEPPOL/A-NZ-PEPPOL-BIS-3.0: Australia-New Zealand extensions to the Peppol BIS 3.0 specifications) with an [Australian or New Zealand accredited Peppol service provider](https://softwaredevelopers.ato.gov.au/accreditation-Peppol-service-provider-register). The test files and the interoperability testing document will be provided at the time of testing.
 
 Peppol service providers should arrange interoperability testing with an [Australian or New Zealand accredited Peppol service provider]( https://softwaredevelopers.ato.gov.au/accreditation-Peppol-service-provider-register). Where you require help in engaging a Peppol service provider for this purpose we can assist you.
 
