@@ -162,7 +162,7 @@ There will be an annual review of the accreditation status to ensure Peppol serv
 - [Peppol eDelivery Network – overview]( https://peppol.eu/what-is-peppol/peppol-transport-infrastructure/) 
 - [Peppol eDelivery network specifications]( https://peppol.eu/downloads/the-peppol-edelivery-network-specifications/) 
 - [Access Point Implementation guides](https://peppol.eu/downloads/ap-guidelines/)
-- [Peppol Business Interoperability Specification (BIS) overview](https://peppol.eu/what-is-peppol/peppol-profiles-specifications/ and [post-award BIS specifications and guidelines](https://peppol.eu/downloads/post-award/)
+- [Peppol Business Interoperability Specification (BIS) overview](https://peppol.eu/what-is-peppol/peppol-profiles-specifications/) and [post-award BIS specifications and guidelines](https://peppol.eu/downloads/post-award/)
 - [Peppol Service Provider Agreement](https://github.com/A-NZ-PEPPOL/A-NZ-accreditation-documents/raw/master/Australian%20Peppol%20Authority/PeppolServiceProviderAgreement_v4.0.1.docx) 
 - [Peppol Internal Regulations](https://openpeppol.atlassian.net/wiki/download/attachments/2889252865/Internal%20Regulations%20-%20Use%20of%20Peppol%20Network_v1.0.1%20APPROVED%202022.06.21.pdf?api=v2)
 - [Peppol operational procedures](https://openpeppol.atlassian.net/wiki/spaces/AF/pages/2891251733/Peppol+Interoperability+Framework+1+Juy+2022#B4.-Operational-Procedures) 
