@@ -26,7 +26,7 @@ If your organisation is already operating on the PEPPOL network, we will engage 
 You will still need to complete some sections of the accreditation pack and complete New Zealand interoperability testing.
 
 ## Australian accredited Service Providers
-PEPPOL Service Providers accredited by the Australian PEPPOL Authority are also eligible for mutual accreditation by the New Zealand PEPPOL Authority, and will only be required to sign the New Zealand Annexes 1 & 5.
+PEPPOL Service Providers accredited by the Australian PEPPOL Authority are also eligible for mutual accreditation by the New Zealand PEPPOL Authority, and will only be required to sign the New Zealand Annex 1.
 
 # What’s involved in the accreditation process?
 ## Join OpenPEPPOL
@@ -54,19 +54,19 @@ Please avoid submitting incomplete packs, as this will delay the accreditation p
 |----------|---------------|
 | Complete Expression of Interest Form | All SPs |
 | Sign the AP and or SMP agreements | New SPs |
-| Complete or initial Annexes 1 to 6 | New SPs |
-| Complete Annexes 1 and 5 | only Established SPs, Australian accredited SPs |
-| Completed a Criminal Conviction History form for Company Directors and/or Responsible Officer(s). Include the appropriate form of ID. | New SPs |
+| Complete or initial Annexes 1 to 3 | New SPs |
+| Complete Annex 1 | only Established SPs, Australian accredited SPs |
+| Completed a Criminal Conviction History form for Company Directors and/or Responsible Officer(s). Include the appropriate form of ID. | All SPs |
 | Complete the Security Questionnaire | New SPs, Established SPs |
 | Complete the website information form | All SPs |
 | Include a copy of your indemnity insurance policy | New SPs, Established SPs |
-| Sign the privacy statement | New SPs, Established SPs |
+| Sign the privacy statement | All SPs |
 
 ### Keys
 
 **New SP** = Service Providers that are not yet accredited with any PEPPOL Authority
 
-**Australian Accredited SP** = Any Service Provider that has received accreditation in Australia. This may include Australian based or international service providers.
+**Australian Accredited SP** = Any Service Provider that has received accreditation in Australia (mutual recognition). This may include Australian based or international service providers.
 
 **Established SP** = Service Providers accredited with another PEPPOL authority (but not Australia)
 
