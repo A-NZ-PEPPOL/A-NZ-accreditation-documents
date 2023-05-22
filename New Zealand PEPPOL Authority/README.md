@@ -55,7 +55,7 @@ Please avoid submitting incomplete packs, as this will delay the accreditation p
 |----------|---------------|
 | Complete Expression of Interest Form | All SPs |
 | Sign the Service Provider Agreement(s) | New SPs |
-| Sign the New Zealand Specific Requirement | All SPs |
+| Complete the New Zealand Specific Requirements | All SPs |
 | Completed a Criminal Conviction History form for Company Directors and/or Responsible Officer(s). Include the appropriate form of ID. | All SPs |
 | Complete the Security Questionnaire | New SPs, Established SPs |
 | Complete the website information form | All SPs |
