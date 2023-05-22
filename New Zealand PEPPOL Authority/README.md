@@ -55,8 +55,6 @@ Please avoid submitting incomplete packs, as this will delay the accreditation p
 |----------|---------------|
 | Complete Expression of Interest Form | All SPs |
 | Sign the Service Provider Agreements | New SPs |
-| Complete or initial Annexes 1 to 3 | New SPs |
-| Complete Annex 1 | only Established SPs, Australian accredited SPs |
 | Completed a Criminal Conviction History form for Company Directors and/or Responsible Officer(s). Include the appropriate form of ID. | All SPs |
 | Complete the Security Questionnaire | New SPs, Established SPs |
 | Complete the website information form | All SPs |
