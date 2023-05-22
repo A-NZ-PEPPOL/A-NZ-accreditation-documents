@@ -2,7 +2,7 @@
 All Service Providers must follow a simple 3 step process to be accredited by the New Zealand PEPPOL Authority.
 This process is as follows:
 1) Complete the [Expression of Interest form](https://mbie.wufoo.com/forms/k1exqioh1dk6euw/)
-2) Complete the relevant Serivce Provider Agreement and Country Specific Requirements (https://openpeppol.atlassian.net/wiki/spaces/AF/pages/2891251733/Peppol+Interoperability+Framework+1+July+2022)
+2) Complete the relevant Serivce Provider Agreement(s) and Country Specific Requirements (https://openpeppol.atlassian.net/wiki/spaces/AF/pages/2891251733/Peppol+Interoperability+Framework+1+July+2022)
 3) Complete the additional forms relevant to the application
 4) Complete testing requirements
 
@@ -54,7 +54,8 @@ Please avoid submitting incomplete packs, as this will delay the accreditation p
 | Activity | Applicable to |
 |----------|---------------|
 | Complete Expression of Interest Form | All SPs |
-| Sign the Service Provider Agreements | New SPs |
+| Sign the Service Provider Agreement(s) | New SPs |
+| Sign the New Zealand Specific Requirement | All SPs |
 | Completed a Criminal Conviction History form for Company Directors and/or Responsible Officer(s). Include the appropriate form of ID. | All SPs |
 | Complete the Security Questionnaire | New SPs, Established SPs |
 | Complete the website information form | All SPs |
