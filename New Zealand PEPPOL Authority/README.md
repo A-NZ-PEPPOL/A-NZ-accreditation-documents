@@ -2,8 +2,9 @@
 All Service Providers must follow a simple 3 step process to be accredited by the New Zealand PEPPOL Authority.
 This process is as follows:
 1) Complete the [Expression of Interest form](https://mbie.wufoo.com/forms/k1exqioh1dk6euw/)
-2) Complete the relevant accreditation pack
-3) Complete testing requirements
+2) Complete the relevant Serivce Provider Agreement and Country Specific Requirements (https://openpeppol.atlassian.net/wiki/spaces/AF/pages/2891251733/Peppol+Interoperability+Framework+1+July+2022)
+3) Complete the additional forms relevant to the application
+4) Complete testing requirements
 
 The time required to complete this process is dependent on the readiness of the individual Service Provider seeking accreditation.
 
@@ -23,7 +24,7 @@ You will also need to provide information about your organisation’s technical 
 ## Established Service Providers
 If your organisation is already operating on the PEPPOL network, we will engage with your domain’s local PEPPOL Authority to determine your eligibility for New Zealand accreditation.
 
-You will still need to complete some sections of the accreditation pack and complete New Zealand interoperability testing.
+You will still need to review and complete the Country Specfifc Requirements (and provide existing to the NZPA) and complete New Zealand interoperability testing.
 
 ## Australian accredited Service Providers
 PEPPOL Service Providers accredited by the Australian PEPPOL Authority are also eligible for mutual accreditation by the New Zealand PEPPOL Authority, and will only be required to sign the New Zealand Annex 1.
@@ -36,7 +37,7 @@ OpenPEPPOL membership is mandatory for all Service Providers who intend to offer
 Your organisation can express their interest in becoming a New Zealand accredited Service Provider by completing our online [Expression of Interest form](https://mbie.wufoo.com/forms/k1exqioh1dk6euw/). In lodging this form, you formally begin the accreditation process.
 
 ## Complete the accreditation pack
-The accreditation pack is contained in a .ZIP download.
+The latest Service Provider Agreements are located here: https://openpeppol.atlassian.net/wiki/spaces/AF/pages/2891251733/Peppol+Interoperability+Framework+1+July+2022.
 
 You will need to complete and return this documentation, as well as any other information required to support your application.
 
