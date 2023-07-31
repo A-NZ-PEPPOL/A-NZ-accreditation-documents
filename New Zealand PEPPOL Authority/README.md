@@ -2,7 +2,7 @@
 All Service Providers must follow a simple 3 step process to be accredited by the New Zealand PEPPOL Authority.
 This process is as follows:
 1) Complete the [Expression of Interest form](https://mbie.wufoo.com/forms/k1exqioh1dk6euw/)
-2) Complete the relevant Serivce Provider Agreement(s) and Country Specific Requirements (https://openpeppol.atlassian.net/wiki/spaces/AF/pages/2891251733/Peppol+Interoperability+Framework+1+July+2022)
+2) Complete the relevant Serivce Provider Agreement and Country Specific Requirements (https://openpeppol.atlassian.net/wiki/spaces/AF/pages/2891251733/Peppol+Interoperability+Framework+1+July+2022)
 3) Complete the additional forms relevant to the application
 4) Complete testing requirements
 
