@@ -34,10 +34,11 @@ PEPPOL Service Providers accredited by the Australian PEPPOL Authority are also 
 OpenPEPPOL membership is mandatory for all Service Providers who intend to offer AP and/or SMP services within the PEPPOL network. Prior to applying for OpenPEPPOL membership, please ensure you are fully aware of your responsibilities as a New Zealand PEPPOL Service Provider by reviewing the requirements outlined on the [OpenPEPPOL website](https://peppol.eu/get-involved/join-openpeppol/) and within the Annex documents provided in the accreditation pack.
 
 ## Complete an Expression of Interest
-Your organisation can express their interest in becoming a New Zealand accredited Service Provider by completing our online [Expression of Interest form](https://mbie.wufoo.com/forms/k1exqioh1dk6euw/). In lodging this form, you formally begin the accreditation process.
+Your organisation can express its interest in becoming a New Zealand accredited service provider by emailing support@nzpeppol.govt.nz and outlining your organisation name, whether you intend to provide AP and/or SMP services, and what experience your organisation has with eInvoicing or electronic document transfer. In lodging this email, you formally begin the accreditation process.
+
 
 ## Complete the accreditation pack
-The latest Service Provider Agreements are located here: https://openpeppol.atlassian.net/wiki/spaces/AF/pages/2891251733/Peppol+Interoperability+Framework+1+July+2022.
+The latest Service Provider Agreement is located here: https://openpeppol.atlassian.net/wiki/spaces/AF/pages/2891251733/Peppol+Interoperability+Framework+1+July+2022.
 
 You will need to complete and return this documentation, as well as any other information required to support your application.
 
