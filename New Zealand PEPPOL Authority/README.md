@@ -72,25 +72,25 @@ Please avoid submitting incomplete packs, as this will delay the accreditation p
 
 **Australian Accredited SP** = Any Service Provider that has received accreditation in Australia (mutual recognition). This may include Australian based or international service providers.
 
-**Established SP** = Service Providers accredited with another PEPPOL authority (but not Australia).
+**Established SP** = Service Providers accredited with another Peppol authority (but not Australia).
 
 ## Testing Requirements
 
 There are 3 stages of testing required to complete the accreditation process:
 
 1. Using the test network for unit testing in your own environment
-2. OpenPEPPOL testbed (Access Point Provider only)
+2. OpenPeppol testbed (Access Point Provider only)
 3. Interoperability testing
 
 ## Collecting your Test PKI certificate
 
-You will receive instructions on how to obtain your Test PKI Certificate when you become a member of OpenPEPPOL. This certificate allows you to operate on the test network, and will enable you to complete the required interoperability testing.
+You will receive instructions on how to obtain your Test PKI Certificate when you become a member of OpenPeppol. This certificate allows you to operate on the test network, and will enable you to complete the required interoperability testing.
 
-**Be sure to download your test certificate within ten days.** Certificates not downloaded within this timeframe will expire and you will need to raise a request with OpenPEPPOL to have the certificate renewed.
+**Be sure to download your test certificate within ten days.** Certificates not downloaded within this timeframe will expire and you will need to raise a request with OpenPeppol to have the certificate renewed.
 
 ## OpenPeppol Acceptance Testing (Access Point Providers only)
 
-Once you have completed unit testing in your own environment you can commence acceptance testing in the OpenPEPPOL central test bed. This formally tests your access point’s compliance with the Peppol eDelivery Network specifications.
+Once you have completed unit testing in your own environment you can commence acceptance testing in the OpenPeppol central test bed. This formally tests your access point’s compliance with the Peppol eDelivery Network specifications.
 
 Successful completion of acceptance testing is a pre-requisite for interoperability testing.
 
@@ -107,7 +107,7 @@ Please note that currently there is no testbed for SMP acceptance testing.
 
 The New Zealand Peppol Authority will facilitate an Interoperability Test with an existing Peppol Access Point provider. This is to confirm the Service Provider:
 
-1) is able to establish compatibility with another Australian or New Zealand PEPPOL Access Point
+1) is able to establish compatibility with another Australian or New Zealand Peppol Access Point
 2) conforms with local BIS requirements.
 
 To complete interoperable testing, you will be provided with a set of test files which your access point will need to process to identify which files are valid, and which are invalid.
