@@ -6,7 +6,7 @@ the organisation name
 the intention to provide AP and/or SMP services, and
 what experience the organisation has with eInvoicing or electronic document transfer.
 Lodging this email formally begins the accreditation process.
-2) Complete the relevant Serivce Provider Agreement and Country Specific Requirements (https://openpeppol.atlassian.net/wiki/spaces/AF/pages/2891251733/Peppol+Interoperability+Framework+1+July+2022)
+2) Complete the relevant Serivce Provider Agreement and New Zealand Peppol Authority Specific Requirements (https://openpeppol.atlassian.net/wiki/spaces/AF/pages/2891251733/Peppol+Interoperability+Framework+1+July+2022)
 3) Complete the additional forms relevant to the application
 4) Complete testing requirements
 
