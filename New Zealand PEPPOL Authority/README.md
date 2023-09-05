@@ -18,7 +18,7 @@ This review will determine the New Zealand PEPPOL Authority’s confidence in ac
 This process includes an in-depth review of your organisation including:
 
 1. financial position
-2. insurance policies
+2. public liabbility insurance cover
 3. leadership credibility, and
 4. online presence
 
