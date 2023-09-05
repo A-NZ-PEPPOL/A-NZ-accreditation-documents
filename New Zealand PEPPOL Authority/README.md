@@ -1,5 +1,5 @@
 # New Zealand Accreditation Process
-All Service Providers must follow a simple 3 step process to be accredited by the New Zealand PEPPOL Authority.
+All Service Providers must follow a simple 3 step process to be accredited by the New Zealand Peppol Authority.
 This process is as follows:
 1) Complete an expression of interest in becoming a New Zealand accredited service provider by emailing support@nzpeppol.govt.nz and outlining:
 the organisation name
