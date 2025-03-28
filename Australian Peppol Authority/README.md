@@ -14,7 +14,7 @@ The requirements of accreditation are in place to:
 
 For Peppol service providers seeking accreditation for the first time, you will need to contact [OpenPeppol General Support](https://openpeppol.atlassian.net/servicedesk/customer/portal/1) to determine your home Peppol Authority whom you will be required to complete accreditation with first. Open Peppol charges an [Annual membership fee]( https://peppol.eu/get-involved/join-openpeppol/) based on a calendar year; this is payable each year regardless of your accreditation status.
 
-Before commencing accreditation, Peppol service providers should understand the technical, legal and policy framework of Peppol by reviewing the Peppol Technical and policy documents at the bottom of this page.
+Before commencing accreditation, Peppol service providers should understand the technical, legal, and policy framework of Peppol by reviewing the Peppol Technical and policy documents at the bottom of this page.
 
 If service providers have questions or would like a meeting to discuss the Peppol framework or accreditation steps, reach out to eInvoicing@ato.gov.au or through [Online services for DSPs]( https://developer.sbr.gov.au/portal/servicedesk/customer/portal/1).
 
@@ -87,9 +87,9 @@ You are required to complete testing to verify your service offering conforms to
 
 1.	Unit testing
 2.	Peppol acceptance testing
-3.	Interoperability testing
+3.	Interoperability testing using Peppol Testbed  
 
-Note: Peppol service providers already accredited in another jurisdiction will only be required to complete interoperability testing.
+Note: Peppol service providers already accredited in another jurisdiction will only be required to complete interoperability testing using Peppol Testbed.
 
 ### Step 1: Complete Unit testing
 
@@ -104,23 +104,23 @@ Once OpenPeppol approves, you will have 10 days to download your test certificat
 
 ### Step 2: Peppol acceptance testing – eDelivery Network compliance (Access Points only)
 
-The Peppol acceptance test is conducted in the OpenPeppol central test bed and formally tests your compliance with the Peppol eDelivery Network specifications. This test may be completed by you without OpenPeppol intervention, with the Test PKI Certificate acting as a log on to enter the central test bed from which the test may be executed.
+The Peppol acceptance test is conducted in the Peppol Testbed and formally tests your compliance with the Peppol eDelivery Network specifications. This test may be completed by you without OpenPeppol intervention, with the Test PKI Certificate acting as a log on to enter the central Testbed from which the test may be executed.
 
 Acceptance Testing involves:
 
 - verification of your certificates (both the Peppol and TLS certificate)
-- validating your ability to send/receive business documents to/from the Test AP
+- validating your ability to send/receive business documents to/from the Test Access Points
 - generating acknowledgment of the documents sent.
 
 Once completed, submit the test results via the [OpenPeppol JIRA service desk](https://openpeppol.atlassian.net/servicedesk/customer/portal/1). On the portal main page, select ‘Test and Onboarding’ and complete the remaining fields. OpenPeppol will advise if the test results are accepted.
 
-### Step 3: Complete Interoperability testing
+### Step 3: Complete Interoperability testing using Peppol Testbed 
 
-Interoperability testing must be completed to ensure you can send or receive a valid [A-NZ invoice](https://github.com/A-NZ-PEPPOL/A-NZ-PEPPOL-BIS-3.0) with an [Australian or New Zealand accredited Peppol service provider](https://softwaredevelopers.ato.gov.au/accreditation-Peppol-service-provider-register). The test files and the interoperability testing document will be provided at the time of testing.
+Interoperability testing must be completed to ensure you can send and receive valid PINT A-NZ documents. Interoperability testing is completed using the [Australia/New Zealand Test Suites](https://www.testbed.peppol.org/pint/aunz/documentation) in the [Peppol Testbed](https://www.testbed.peppol.org/).  
 
-Peppol service providers should arrange interoperability testing with an [Australian or New Zealand accredited Peppol service provider]( https://softwaredevelopers.ato.gov.au/accreditation-Peppol-service-provider-register). Where you require help in engaging a Peppol service provider for this purpose we can assist you.
+The PINT A-NZ test suites in Peppol Testbed cover the current effective PINT A-NZ specifications (Billing and Self-Billing). When a new version of the PINT A-NZ specifications is released (published but not yet effective), the Testbed will be updated to include both current effective and the newly published but not yet effective versions of the PINT A-NZ specifications. 
 
-You will need to provide us with the interoperability test results.
+For accreditation you are required to complete the test suite for the [current effective PINT A-NZ Billing specification](https://docs.peppol.eu/poac/aunz/pint-aunz/).  A user guide explaining how to complete the test suite is available on the [PINT A-NZ Testbed homepage](https://www.testbed.peppol.org/pint/aunz/documentation).  Upon successful completion of the test suite, a downloadable report is generated by Peppol Testbed confirming you have successfully completed all test scenarios in the test suite. You will need to provide us with a copy of this report. 
 
 ## 6. Receive accreditation
 
@@ -144,7 +144,7 @@ Once OpenPeppol approves your certificate, you will have 10 days to download you
 
 Through the Trans-Tasman single economic market agenda, the Australian and New Zealand governments announced a common approach to eInvoicing. With this common approach, the Australia and New Zealand Peppol Authorities have an aligned accreditation process that supports mutual accreditation of Peppol service providers between the two countries.
 
-Once you are accredited in Australia, you can request mutual accreditation with New Zealand by directly contacting the New Zealand Peppol Authority at einvoicing@mbie.govt.nz.
+Once you are accredited in Australia, you can request mutual accreditation with New Zealand by directly contacting the New Zealand Peppol Authority at support@nzpeppol.govt.nz.
 
 ## Accreditation annual review 
 
